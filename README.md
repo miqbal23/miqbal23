@@ -17,6 +17,15 @@ Name's Muhamad Iqbal. I'm a data scientist with Minang blood and interest in AI 
 | ML Engineer                      | Konvergen AI       | ML, OCR, Text Recognition    | Mar 2020 — Sept 2020       |
 | IT Instructor & Lab Assistant    | LearnIT Gunadarma  | Teaching, IT certification   | Aug 2014 - Jan 2017        |
 
+### Public talks 🗣
+Aside from programming, I also did a bit of speaking and teaching in my past. Includes
+- Two intro to ML courses in collaboration w/ IMERI FKUI, 
+    -  **Classical Machine Learning Application in Medicine** (Apr-May 2020)
+    -  **AI in Healthcare** (Sept 2021)
+- Two courses in collaboration w/ Data Science Center FMIPA UI
+    -  **Intro to Generative Adversarial Networks** (2019)
+    -  **Summer School DSC UI 2020** (2020)
+
 <!--
 **nobodykid/nobodykid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
